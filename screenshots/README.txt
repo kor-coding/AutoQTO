@@ -368,3 +368,30 @@ Guides
       Caption:      Free-user promo with Continue
       Capture this: Waiting panel free-user promo with a Continue button.
 
+### Paid features (paid-features) — added October 2026
+
+  Appended for the new AI Assist guide. Slots now: 69 (66 guide + 3 landing).
+
+  Guide: AI Assist
+  URL:   /guides/ai-assist
+
+    guide-ai-assist-1.png
+      Caption:      AI Assist menu with scenarios
+      Capture this: AI Assist toolbar menu listing the Finish Area, Steel Structure, Beam Details, Conc & Fwk, and Tiles scenarios.
+
+    guide-ai-assist-2.png
+      Caption:      Effort dialog: Quick / Standard / Careful
+      Capture this: Effort dialog titled with the scenario name, offering Quick, Standard, and Careful with their rates.
+
+    guide-ai-assist-3.png
+      Caption:      Waiting dialog with running clock
+      Capture this: Waiting dialog with a running clock and a Stop button during an AI Assist run.
+
+    guide-ai-assist-4.png
+      Caption:      Run summary with charge and credit left
+      Capture this: Run summary showing effort, elapsed time, tokens in and out, amount charged, rate, credit left, and warnings.
+
+    guide-ai-assist-5.png
+      Caption:      Drafted geometry on the plan and in the dock
+      Capture this: Floor plan with AI-drafted area polygons, centerlines, and point markers, with matching rows in the Quantity Take-Off dock.
+
