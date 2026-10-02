@@ -370,7 +370,7 @@ Guides
 
 ### Paid features (paid-features) — added October 2026
 
-  Appended for the new AI Assist guide. Slots now: 69 (66 guide + 3 landing).
+  Appended for the new AI Assist guide. Slots now: 68 (65 guide + 3 landing). Slot -3 was removed; do NOT renumber -4 / -5.
 
   Guide: AI Assist
   URL:   /guides/ai-assist
@@ -382,10 +382,6 @@ Guides
     guide-ai-assist-2.png
       Caption:      Effort dialog: Quick / Standard / Careful
       Capture this: Effort dialog titled with the scenario name, offering Quick, Standard, and Careful with their rates.
-
-    guide-ai-assist-3.png
-      Caption:      Waiting dialog with running clock
-      Capture this: Waiting dialog with a running clock and a Stop button during an AI Assist run.
 
     guide-ai-assist-4.png
       Caption:      Run summary with charge and credit left
