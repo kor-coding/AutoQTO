@@ -385,9 +385,9 @@ Guides
 
     guide-ai-assist-4.png
       Caption:      Run summary with charge and credit left
-      Capture this: Run summary showing effort, elapsed time, tokens in and out, amount charged, rate, credit left, and warnings.
+      Capture this: Run summary showing effort, elapsed time, tokens in and out, amount charged, rate, and credit left.
 
     guide-ai-assist-5.png
-      Caption:      Drafted geometry on the plan and in the dock
-      Capture this: Floor plan with AI-drafted area polygons, centerlines, and point markers, with matching rows in the Quantity Take-Off dock.
+      Caption:      Drafted tile areas on the plan with the Tile sharing panel
+      Capture this: Floor plan with AI-drafted tiled toilet areas and tile grid lines, beside the Tile sharing panel listing rooms, net areas, and full and cut tile counts.
 
